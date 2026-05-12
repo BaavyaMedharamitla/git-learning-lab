@@ -1,16 +1,21 @@
 # Git Learning Lab
 
-A simple Task Manager project built to practice Git basics.
+A hands-on project created to practice Git and GitHub workflow concepts.
 
 ## Features
 - Add tasks
-- Clean UI
-- Beginner-friendly project
+- Delete tasks
+- Dark mode UI
 
 ## Git Concepts Practiced
-- git init
-- git add
-- git commit
-- git push
-- Branching
-- Merging
+- Repository initialization
+- Staging and committing
+- Branch creation
+- Feature branch workflow
+- Merging branches
+- Remote repository management
+
+## Branches Used
+- main
+- dark-mode-feature
+- delete-task-feature
