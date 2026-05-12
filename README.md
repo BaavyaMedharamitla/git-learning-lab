@@ -19,3 +19,5 @@ A hands-on project created to practice Git and GitHub workflow concepts.
 - main
 - dark-mode-feature
 - delete-task-feature
+
+## Pull Practice Completed
